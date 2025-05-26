@@ -1,3 +1,5 @@
 {
-  "item.lolitems.dagger": "Dagger"
+  "item.lolitems.dagger": "Dagger",
+  "item.lolitems.goldcoin": "Gold Coin",
+  "block.lolitems.runebench": "Runebench"
 }
