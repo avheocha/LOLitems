@@ -12,6 +12,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> DAGGER = ITEMS.register("dagger", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GOLDCOIN = ITEMS.register("goldcoin", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RECURVE_BOW = ITEMS.register("recurve_bow", () -> new Item(new Item.Properties()));
 
 
 
